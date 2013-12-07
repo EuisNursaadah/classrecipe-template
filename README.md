@@ -3,31 +3,33 @@
 This document is made by [gitfab](http://gitfab.org)
 ---
 #Target
-Elementary School (6-12)
+Junior High School (12-16)
 
 
-![IMG_2918.JPG](https://raw.github.com/dadaa/classrecipe-template/master/gitfab/resources/IMG_2918.JPG)
+![IMG_2918.JPG](http://1.bp.blogspot.com/_01dsYi6CBkU/S-UtkDpRw7I/AAAAAAAADdY/H9iHph6nwoc/s1600/detikpos-Hasil-UN-SMP-Puluhan-Siswa-SMPN-5-Menangis.jpg)
 ---
 #Scale
-1 classroom (~30)
+1 classroom (~25)
 
 ---
-#Overall
-In this activity, students make a introduction movie about their own country, and presentation for others.
+doing open-ended test
+doing eksperiment about acid-base 
+presentation about the eksperiment in each level, macroscopic level, submicro, and symbolic level 
+suggest student for related acid-base concept to three thinking level 
+discussion about acid-base concept 
 
 
 ---
 #Educational Effect
-* Search information and Remixing
+* all student can identify whta a different between acid and base 
 
 skill
 
-* Presentation Skill
-* deep Knowledge for own country
+* skill used tube glass
 
 ---
-#Item/Material/System
-* PC *Installed latest [Firefox](http://www.mozilla.org/en-US/firefox/)
-* Popcorn Maker
-* Screen for presentation
+tube glass
+litmus 
+kinds of acid 
+kinds of base 
 ---
